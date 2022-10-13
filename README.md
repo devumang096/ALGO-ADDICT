@@ -7,6 +7,7 @@
 🎯 If you practice coding on online platform , you can contribute to this repo.<br>
 🎯 Keep Calm and Do Coding !
 
+
 Are you a Newbie in programming and want to dive deep into it?
 
 <p align="center"><img src="https://media.giphy.com/media/l4q83E0RjRSGLXBLO/giphy.gif" width = 40%></p>
@@ -186,5 +187,4 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 
 <hr>
 
-<h1 align=center>Happy Coding 👨‍💻 </h1>
-
+<h1 align=center>Happy Coding 👨‍💻 </h1
